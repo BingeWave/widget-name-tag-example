@@ -18,5 +18,5 @@ The focus of this tutorial is how to put a name tag on screen of the user based 
 
 ## Tutorial
 
-This code is accompanied by a tutorial that will further explain steps, which is available at: TBA
+This code is accompanied by a tutorial that will further explain steps, which is available at: [Developing A Name Tag Widget For Live Streams](https://medium.com/bingewave/developing-a-name-tag-widget-for-live-streams-9795996f9a58)
 
